@@ -11,17 +11,31 @@ La pull request es útil cuando estás trabajando en un proyecto con otros desar
 ## 3. PASOS PARA CREAR UNA PULL REQUEST
 
 ### a. Crear una Rama (Branch)
+![Crear una Rama (branch)](img/img1.png)
+
+![Crear una Rama (branch)](img/img2.png)
+
+![Crear una Rama (branch)](img/img3.png)
 
 También es posible hacerlo por comandos de git.
 
+![Crear una Rama (branch)](img/img4.png)
+
 ### b. Realizamos algunos cambios en la rama haciendo commits
 
-![Commit Changes](imagen1.png)
+![Commit Changes](img/img5.png)
 
 ### c. Abrimos una pull request
 
-![Open Pull Request](imagen2.png)
+![Open Pull Request](img/img6.png)
+
+![Open Pull Request](img/img7.png)
+
 
 ### d. Realizamos la operación de Merge.
 
-![Merge Pull Request](imagen3.png)
+![Merge Pull Request](img/img8.png)
+
+![Merge Pull Request](img/img9.png)
+
+![Merge Pull Request](img/img10.png)
